@@ -8,5 +8,5 @@
 ### 🤔 Looking for help with writing cleaner code and thinking like a developer
 ### 📫 How to reach me: Github iddues/ Discussions
 ### 🧠 How I learn: I learn by building small things, breaking them, reading the errors, and fixing them. Consistency matters more to me than perfection.
-## ✨ Coding philosophy: Make it work → Make it clean → Make it better. Code for future...
-## ⚡ Fun fact: Powered by curiosity, bugs, and late-night Googling
+### ✨ Coding philosophy: Make it work → Make it clean → Make it better. Code for future...
+### ⚡ Fun fact: Powered by curiosity, bugs, and late-night Googling
