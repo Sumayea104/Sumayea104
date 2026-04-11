@@ -8,7 +8,7 @@
     <strong>Optimizing the intersection of logic, finance, and technology..</strong>
   </p>
   
-  <code>[ STATUS: ARCHITECTING ]</code> &nbsp; <code>[ DOMAIN: FINTECH ]</code> &nbsp; <code>[ LEVEL: TECHNOCRAT ]</code>
+  <code>[ STATUS: BUILDING & LEARNING ]</code> &nbsp; <code>[ DOMAIN: FINTECH ]</code> &nbsp; <code>[ LEVEL: ASPIRING ENGINEER ]</code>
 </div>
 
 ---
