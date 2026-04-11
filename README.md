@@ -13,23 +13,41 @@
 ---
 
 ### 🛡️ Professional Narrative
-Highly analytical **MBA Finance professional** bridging the gap between financial strategy and scalable software engineering. I specialize in building precision-driven frontend experiences while architecting the business logic for secure, data-heavy backend systems. 
+**MBA Finance professional** engineering the transition into **AI-Driven Software Development**. I specialize in building precision-driven frontend systems with a focus on business logic and financial data architecture.
 
 ---
-
 ### 💻 Technical Ecosystem
 
 **Frontend & Logic (Mastered Architecture)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,bootstrap,html,css,astro" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://daisyui.com/"><img src="https://skillicons.dev/icons?i=daisyui" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
 </p>
 
 **Backend & Infrastructure (Current Deployment)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,mongodb,docker,aws,jest" />
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 </p>
 
----
+**Operations & Tooling (Deployment & Workflow)**
+<p align="left">
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="https://github.com/cli/cli"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+</p>
 
 ### 🔭 Strategic Roadmap: H1 2026
 
