@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" />
+  <h1>👋 Hello, I'm Sumayea</h1>
+  <!-- <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" /> -->
 
   <h3>📊 MBA (Finance) | Full-Stack FinTech Developer</h3>
   
@@ -90,10 +91,10 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumayea104&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's Top Languages" />
+</div> -->
 
 ---
 
