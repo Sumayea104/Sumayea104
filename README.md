@@ -50,7 +50,7 @@
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-### 🔭 Strategic Roadmap: H1 2026
+### 🔭 Strategic Roadmap: 2026
 
 <div align="center">
   <table border="0">
