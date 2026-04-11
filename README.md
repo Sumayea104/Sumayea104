@@ -8,7 +8,7 @@
     <strong>Optimizing the intersection of logic, finance, and technology..</strong>
   </p>
   
-  <code>[ STATUS: BUILDING & LEARNING ]</code> &nbsp; <code>[ DOMAIN: FINTECH ]</code> &nbsp; <code>[ LEVEL: ASPIRING ENGINEER ]</code>
+  <code>[ STATUS: BUILDING & LEARNING ]</code> &nbsp; <code>[ DOMAIN: FINTECH ]</code> &nbsp; <code>[ LEVEL: ASPIRING ENGINEER , AI-EMPOWERED PRACTITIONER ]</code>
 </div>
 
 ---
