@@ -1,39 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=200&section=header&text=SUMAYEA%20RAHMAN&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=00f2ff" />
 
-  <h3>🚀 AI-Driven Software Architect | Full-Stack Technocrat</h3>
-  
   <p align="center">
-    <strong>"Living.. is the only thing happening."</strong>
+    <img src="https://img.shields.io/badge/PHASE-AI_ENGINEERING_EVOLUTION-00f2ff?style=for-the-badge&logo=target" />
   </p>
 
-  <code><strong>Status:</strong> Evolving to AI-Native Engineering (H1 2026 Phase)</code>
+  ---
+
+  ### ⚡ SYSTEM ARCHITECTURE
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,prisma,postgres,docker,nginx,aws,redux,jest" />
+  </p>
+
+  ---
+
+  ### 🛠️ MISSION MODULES
+</div>
+
+<div align="center">
+
+| **Core Pillars** | **Advanced Ops** |
+| :--- | :--- |
+| 💎 **TypeScript Technocrat** | 🐳 **Docker & Nginx Nomad** |
+| 🚀 **Next.js Ninja** | ☁️ **AWS Adventurer** |
+| 🌪️ **Node & Express Superstar** | 🛡️ **Testing Titan** |
+| 🗄️ **RDBMS Rockstar** | 🧠 **Critical Thinker** |
+
 </div>
 
 ---
 
-### 🌌 Mission Control: The 6-Month Evolution
-*I am currently re-engineering my mental and technical stack to become an AI-Driven Software Engineer. This is the roadmap to H2 2026:*
-
-| Phase | Designation | Tech Focus | Objective |
-| :--- | :--- | :--- | :--- |
-| **01** | **TS Technocrat** | `TypeScript` + `Next.js` | Elimination of runtime errors; Type-safe UI/UX. |
-| **02** | **RDBMS Rockstar** | `PostgreSQL` + `Prisma` | Designing bulletproof relational data schemas. |
-| **03** | **Full-Stack Ninja** | `Node.js` + `Express` | Building high-concurrency API microservices. |
-| **04** | **DevOps Nomad** | `Docker` + `Nginx` + `AWS` | Containerization and global-scale deployment. |
-| **05** | **Testing Titan** | `Jest` + `Cypress` | Achieving 100% reliability through automation. |
-| **06** | **AI Engineer** | `LLM Integration` + `Python` | Building software that thinks, adapts, and learns. |
+<div align="center">
+  <h3>📊 PERFORMANCE ANALYTICS</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="400" />
+</div>
 
 ---
 
-### 🛠️ Core Tech Orbit
-*Selected technologies I am currently deploying or mastering:*
-
-```json
-{
-  "frontend": ["Next.js", "React", "Redux", "TailwindCSS v4"],
-  "backend": ["Node.js", "Express", "Prisma ORM"],
-  "database": ["PostgreSQL", "SQL Server", "Redis"],
-  "infrastructure": ["Docker", "Nginx", "AWS S3/EC2"],
-  "quality": ["Unit Testing", "E2E Testing", "Critical Thinking"]
-}
+<div align="center">
+  <p><i>"Living.. is the only thing happening."</i></p>
+  
+  <a href="https://linkedin.com/in/sumayea-rahman"><img src="https://img.shields.io/badge/-LinkedIn-00f2ff?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://fb.com/sumayea.rahman"><img src="https://img.shields.io/badge/-Facebook-00f2ff?style=flat-square&logo=facebook&logoColor=black" /></a>
+</div>
