@@ -54,11 +54,30 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 ---
 
-### 💼 Domain Expertise (The MBA Edge)
-- **Financial Modeling:** Designing logic for ROI tracking, expense management, and fiscal dashboards.
-- **Operational Strategy:** Translating complex business requirements into clean, functional code.
-- **Strategic Analysis:** Applying high-level critical thinking to system architecture and UX.
+## 📘 Backend Learning Journey
 
+Currently working on:
+- Building REST APIs using Node.js and Express  
+- Understanding CRUD operations and server structure  
+- Preparing to integrate backend with frontend projects  
+
+---
+
+## 🎯 Career Focus
+
+- Business-oriented software development  
+- Data-driven decision support tools  
+- Applying financial thinking to real-world applications  
+
+---
+
+## 🔭 Current Goals (2026)
+
+- Complete backend development fundamentals  
+- Build full-stack applications  
+- Strengthen problem-solving and logical thinking  
+
+---
 ---
 
 ### ⚡ System Pulse & Analytics
