@@ -2,19 +2,20 @@
   <h1>👋 Hello, I'm Sumayea</h1>
   <!-- <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" /> -->
 
-  <h3>📊 MBA (Finance) | Full-Stack FinTech Developer</h3>
-  
-  <p align="center">
-    <strong>Optimizing the intersection of logic, finance, and technology..</strong>
+  <h3>📊 MBA (Finance) | Frontend Developer</h3>
+
+  <p>
+    I build user-focused web applications with a strong understanding of business logic and financial thinking.
   </p>
-  
-  <code>[ STATUS: BUILDING & LEARNING ]</code> &nbsp; <code>[ DOMAIN: FINTECH ]</code> &nbsp; <code>[ LEVEL: ASPIRING ENGINEER , AI-EMPOWERED PRACTITIONER ]</code>
+
+  <code>Currently Learning: Backend Development </code>
 </div>
 
 ---
 
 ### 🛡️ Professional Narrative
-**MBA Finance professional** engineering the transition into **AI-Driven Software Development**. I specialize in building precision-driven frontend systems with a focus on business logic and financial data architecture.
+I am an MBA (Finance) graduate transitioning into software development.I focus on building practical, user-friendly web applications while applying business logic and analytical thinking.
+Currently, I am expanding my skills into backend development to build complete, data-driven applications.
 
 ---
 ### 💻 Technical Ecosystem
@@ -30,7 +31,7 @@
   <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
 </p>
 
-**Backend & Infrastructure (Current Deployment)**
+**Backend & Infrastructure (Learning goal for next six months)**
 <p align="left">
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
@@ -50,32 +51,6 @@
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-### 🔭 Strategic Roadmap: 2026
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <h3>🏦 FinTech Logic</h3>
-        <p>Leveraging <b>Finance expertise</b> to design type-safe systems for data visualization and fiscal modeling.</p>
-      </td>
-      <td width="50%">
-        <h3>🤖 Intelligent Systems</h3>
-        <p>Integrating <b>LLMs</b> to automate financial analysis and predictive business intelligence.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>🗄️ Database Authority</h3>
-        <p>Transitioning into an <b>RDBMS Rockstar</b> by mastering SQL, PostgreSQL, and Prisma optimization.</p>
-      </td>
-      <td width="50%">
-        <h3>🛡️ Scalable Perimeter</h3>
-        <p>Mastering <b>Docker, AWS, and Testing</b> to ensure institutional-grade software reliability.</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
