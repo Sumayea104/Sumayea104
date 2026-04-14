@@ -43,8 +43,8 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 **Operations & Tooling (Deployment & Workflow)**
 <p align="left">
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <!-- <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a> -->
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
   <a href="https://github.com/cli/cli"><img src="https://skillicons.dev/icons?i=github" /></a>
