@@ -22,6 +22,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 **Frontend & Logic (Mastered Architecture)**
 <p align="left">
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
@@ -34,6 +35,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 **Backend & Infrastructure (Learning goal for next six months)**
 <p align="left">
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
   <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a>
