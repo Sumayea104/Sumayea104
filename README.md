@@ -56,12 +56,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 ---
 
-## 📘 Backend Learning Journey
-
-Currently working on:
-- Building REST APIs using Node.js and Express  
-- Understanding CRUD operations and server structure  
-- Preparing to integrate backend with frontend projects  
+  
 
 ---
 
