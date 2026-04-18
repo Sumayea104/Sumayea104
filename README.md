@@ -56,10 +56,6 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 ---
 
-  
-
----
-
 ## 🎯 Career Focus
 
 - Business-oriented software development  
@@ -73,8 +69,6 @@ Currently, I am expanding my skills into backend development to build complete, 
 - Complete backend development fundamentals  
 - Build full-stack applications  
 - Strengthen problem-solving and logical thinking  
-
----
 ---
 
 ### ⚡ System Pulse & Analytics
