@@ -77,7 +77,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 </p>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's Top Languages" />
 </div> 
 
