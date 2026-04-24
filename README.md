@@ -14,7 +14,7 @@
 ---
 
 ### 🛡️ Professional Narrative
-I am an MBA (Finance) graduate transitioning into software development.I focus on building practical, user-friendly web applications while applying business logic and analytical thinking.
+I am an MBA (Finance) graduate transitioning into software development. I focus on building practical, user-friendly web applications while applying business logic and analytical thinking.
 Currently, I am expanding my skills into backend development to build complete, data-driven applications.
 
 ---
