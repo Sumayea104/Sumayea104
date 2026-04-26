@@ -32,7 +32,7 @@ Currently, I am expanding my skills into backend development to build complete, 
   <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
 </p>
 
-**Backend & Infrastructure (Learning goal for next six months)**
+**Backend Development (Actively Building & Learning)**
 <p align="left">
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
