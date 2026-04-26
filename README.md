@@ -99,7 +99,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 </p>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=6" style="width: 48%; margin-bottom: 10px;">
 </p>
 
 <p align="center">
