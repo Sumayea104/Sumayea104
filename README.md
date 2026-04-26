@@ -88,10 +88,11 @@ Currently, I am expanding my skills into backend development to build complete, 
 
 <p align="center">
   <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
-</p>
+</p> 
 
-<p align="center">
+<!-- <p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayea104=algolia" alt="GitHub Streak" />
+</p>  -->
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
@@ -102,9 +103,9 @@ Currently, I am expanding my skills into backend development to build complete, 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=6" style="width: 48%; margin-bottom: 10px;">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumayea104&theme=algolia&no-frame=true&row=1" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://linkedin.com/in/sumayea-rahman">
     <img src="https://img.shields.io/badge/LINKEDIN-00f2ff?style=for-the-badge&logo=linkedin&logoColor=black" />
