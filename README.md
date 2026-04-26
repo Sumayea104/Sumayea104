@@ -20,7 +20,7 @@ Currently, I am expanding my skills into backend development to build complete, 
 ---
 ### 💻 Technical Ecosystem
 
-**Frontend & Logic (Mastered Architecture)**
+**Frontend Development & Application Logic**
 <p align="left">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
