@@ -5,7 +5,7 @@
   <h3>📊 MBA (Finance)| Business Development Enthusiast | Frontend Developer</h3>
 
   <p>
-    I build user-focused web applications with a strong understanding of business logic and financial thinking.
+   I design and build business-driven web applications by combining financial analysis with frontend engineering—focusing on products that solve real operational and decision-making problems.
   </p>
 
   <code>Currently Learning: Backend Development </code>
