@@ -2,20 +2,28 @@
   <h1>👋 Hello, I'm Sumayea</h1>
   <!-- <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" /> -->
 
-  <h3>📊 MBA (Finance)| Business Development Enthusiast | Business-Focused Software Developer</h3>
+  <h3>📊 MBA (Finance)| Business Development Enthusiast | Data-Driven Problem Solver</h3>
 
   <p>
-   I design and build business-driven web applications by combining financial analysis with frontend engineering—focusing on products that solve real operational and decision-making problems.
+  I build business-driven web applications by combining financial thinking with software development.
+My focus is on creating tools that improve decision-making, efficiency, and user experience in real-world scenarios.
   </p>
 
-  <code>Currently Learning: Backend Development </code>
+ <code>🚀 Currently expanding into backend development & full-stack systems</code>
 </div>
 
 ---
 
 ### 🛡️ Professional Narrative
-I am an MBA (Finance) graduate transitioning into software development. I focus on building practical, user-friendly web applications while applying business logic and analytical thinking.
-Currently, I am expanding my skills into backend development to build complete, data-driven applications.
+I am an MBA (Finance) graduate transitioning into software development with a strong interest in solving business problems through technology.
+
+I approach development with a mindset rooted in:
+
+- 📊 Analytical thinking
+- 📈 Business impact
+- ⚙️ System efficiency
+
+Alongside frontend development, I am actively building backend skills to develop complete, data-driven applications that connect logic, data, and usability.
 
 ---
 ### 💻 Technical Ecosystem
