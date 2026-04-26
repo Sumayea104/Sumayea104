@@ -84,7 +84,27 @@ Currently, I am expanding my skills into backend development to build complete, 
 ---
 
 ### 📡 Professional Uplink
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
 
+<p align="center">
+  <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayea104=algolia" alt="GitHub Streak" />
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayea104&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumayea104&theme=algolia&no-frame=true&row=1" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/sumayea-rahman">
     <img src="https://img.shields.io/badge/LINKEDIN-00f2ff?style=for-the-badge&logo=linkedin&logoColor=black" />
