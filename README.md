@@ -2,7 +2,7 @@
   <h1>👋 Hello, I'm Sumayea</h1>
   <!-- <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" /> -->
 
-  <h3>📊 MBA (Finance)| Business Development Enthusiast | Data-Driven Problem Solver</h3>
+  <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
 
   <p>
   I build business-driven web applications by combining financial thinking with software development.
