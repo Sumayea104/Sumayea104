@@ -111,7 +111,7 @@ Alongside frontend development, I am actively building backend skills to develop
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=6" style="width: 48%; margin-bottom: 10px;">
 </p>
 
-?
+
 <p align="center">
   <a href="https://linkedin.com/in/sumayea-rahman">
     <img src="https://img.shields.io/badge/LINKEDIN-00f2ff?style=for-the-badge&logo=linkedin&logoColor=black" />
