@@ -86,7 +86,7 @@ Alongside frontend development, I am actively building backend skills to develop
 
  <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's Top Languages" /> -->
 </div> 
 
 ---
@@ -98,9 +98,9 @@ Alongside frontend development, I am actively building backend skills to develop
   <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
 </p> 
 
-<!-- <p align="center">
+ <!--<p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayea104=algolia" alt="GitHub Streak" />
-</p>  -->
+</p>--!>
 
 <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
