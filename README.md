@@ -123,7 +123,12 @@ Alongside frontend development, I am actively building backend skills to develop
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/RahmanSuma22098">
     <img src="https://img.shields.io/badge/X(Twitter)-00f2ff?style=for-the-badge&logo=x&logoColor=black" />
-  </a>
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sumayearahman7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00f2ff?style=for-the-badge&logo=gmail&logoColor=black" />
+ </a>
+  
 </p>
 
 <br />
