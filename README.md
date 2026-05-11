@@ -28,41 +28,99 @@ Alongside frontend development, I am actively building backend skills to develop
 ---
 ### 💻 Technical Ecosystem
 
-**Frontend Development & Application Logic**
+**Frontend Development & UI Ecosystem**
 <p align="left">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://daisyui.com/"><img src="https://skillicons.dev/icons?i=daisyui" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <a href="https://astro.build/">
+    <img src="https://skillicons.dev/icons?i=astro" />
+  </a>
+
 </p>
+
+### 🧩 UI Libraries & Styling Systems
+- daisyUI (Tailwind component system)
+- shadcn/ui (Radix-based UI components)
+---
 
 **Backend Development (Actively Building & Learning)**
 <p align="left">
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
-  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+
+  <a href="https://www.prisma.io/">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+
 </p>
+
+---
 
 **Operations & Tooling (Deployment & Workflow)**
 <p align="left">
-  <!-- <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a> -->
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
-  <a href="https://github.com/cli/cli"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+
+  <a href="https://www.netlify.com/">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
 </p>
-
-
----
 
 ## 🎯 Career Focus
 
