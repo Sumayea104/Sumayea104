@@ -63,8 +63,8 @@ Alongside frontend development, I am actively building backend skills to develop
 
 ### 🧩 UI Libraries & Styling Systems
 - daisyUI (Tailwind component system)
-- shadcn/ui (Radix-based UI components)
----
+- shadcn/ui 
+
 
 **Backend Development (Actively Building & Learning)**
 <p align="left">
@@ -99,7 +99,7 @@ Alongside frontend development, I am actively building backend skills to develop
 
 </p>
 
----
+
 
 **Operations & Tooling (Deployment & Workflow)**
 <p align="left">
@@ -121,6 +121,8 @@ Alongside frontend development, I am actively building backend skills to develop
   </a>
 
 </p>
+
+---
 
 ## 🎯 Career Focus
 
@@ -164,12 +166,15 @@ Alongside frontend development, I am actively building backend skills to develop
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayea104&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
 </p> -->
+---
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    &nbsp;&nbsp;&nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumayea104&theme=algolia&utcOffset=6" style="width: 48%; margin-bottom: 10px;">
 </p>
 
 ---
+
 <p align="center">
   <a href="https://linkedin.com/in/sumayea-rahman">
   <img src="https://img.shields.io/badge/LinkedIn-00f2ff?style=for-the-badge&logo=Linkedin&logoColor=black" />
@@ -189,7 +194,6 @@ Alongside frontend development, I am actively building backend skills to develop
   
 </p>
 
-<br />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&hide_border=true" />
