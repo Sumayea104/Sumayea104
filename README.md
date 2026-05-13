@@ -158,10 +158,10 @@ Alongside frontend development, I am actively building backend skills to develop
   <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
 </p> 
 
- <!--<p align="center">
+<!-- <p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayea104=algolia" alt="GitHub Streak" />
-</p>--!>
-
+</p> -->
+<!-- -->
 <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayea104&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
