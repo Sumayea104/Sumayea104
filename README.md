@@ -34,27 +34,26 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://redux.js.org/">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://tailwindcss.com/">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-&nbsp;&nbsp;
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://astro.build/">
     <img src="https://skillicons.dev/icons?i=astro" />
   </a>
@@ -72,27 +71,27 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://nodejs.org/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://www.prisma.io/">
     <img src="https://skillicons.dev/icons?i=prisma" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://www.postgresql.org/">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
@@ -107,15 +106,15 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://vercel.com/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://www.netlify.com/">
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-&nbsp;&nbsp;
+
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
