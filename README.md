@@ -34,7 +34,12 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-
+    <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/python">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
@@ -68,10 +73,6 @@ Alongside frontend development, I am actively building backend skills to develop
 **Backend Development (Actively Building & Learning)**
 <p align="left">
 
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
@@ -99,13 +100,13 @@ Alongside frontend development, I am actively building backend skills to develop
 </p>
 
 
-
 **Operations & Tooling (Deployment & Workflow)**
 <p align="left">
 
   <a href="https://vercel.com/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
+
 
   <a href="https://www.netlify.com/">
     <img src="https://skillicons.dev/icons?i=netlify" />
@@ -118,6 +119,7 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
+  
 
 </p>
 
