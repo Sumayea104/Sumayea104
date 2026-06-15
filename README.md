@@ -27,102 +27,72 @@ Alongside frontend development, I am actively building backend skills to develop
 
 ---
 ### 💻 Technical Ecosystem
+**Frontend Development**
 
-**Frontend Development & UI Ecosystem**
 <p align="left">
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/python">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" />
-  </a>
-
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-
-  <a href="https://astro.build/">
-    <img src="https://skillicons.dev/icons?i=astro" />
-  </a>
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🧩 UI Libraries & Styling Systems
-- daisyUI (Tailwind component system)
-- shadcn/ui 
-
-
-**Backend Development (Actively Building & Learning)**
+**Backend Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
+**DevOps, AI & Cloud (Bootcamp Focus)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-
-  <a href="https://www.prisma.io/">
-    <img src="https://skillicons.dev/icons?i=prisma" />
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-
+**Deployment & Hosting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 
-**Operations & Tooling (Deployment & Workflow)**
+**UI & Component Libraries**
 <p align="left">
-
-  <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-
-
-  <a href="https://www.netlify.com/">
-    <img src="https://skillicons.dev/icons?i=netlify" />
-  </a>
-
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  
-
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+**AI Stack (In Progress)**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FFD700?style=for-the-badge&logo=rag&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+**AI APIs**
+<p align="left">
+  <img src="https://img.shields.io/badge/Mistral_AI-FF6B00?style=for-the-badge&logo=mistral&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+> 🎓 **Currently enrolled in AI-Driven Software Engineering Bootcamp** — adding full-stack + AI development to my toolkit
 ---
 
 ## 🎯 Career Focus
@@ -175,27 +145,23 @@ Alongside frontend development, I am actively building backend skills to develop
 </p>
 
 ---
-
 <p align="center">
   <a href="https://linkedin.com/in/sumayea-rahman">
-  <img src="https://img.shields.io/badge/LinkedIn-00f2ff?style=for-the-badge&logo=Linkedin&logoColor=black" />
- </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/sumayea.rahman">
-    <img src="https://img.shields.io/badge/FACEBOOK-00f2ff?style=for-the-badge&logo=facebook&logoColor=black" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/RahmanSuma22098">
-    <img src="https://img.shields.io/badge/X(Twitter)-00f2ff?style=for-the-badge&logo=x&logoColor=black" />
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sumayearahman7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00f2ff?style=for-the-badge&logo=gmail&logoColor=black" />
- </a>
-  
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&hide_border=true" />
