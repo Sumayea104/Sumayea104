@@ -36,8 +36,6 @@ Alongside frontend development, I am actively building backend skills to develop
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 **Backend Development**
@@ -89,7 +87,6 @@ Alongside frontend development, I am actively building backend skills to develop
 <p align="left">
   <img src="https://img.shields.io/badge/Mistral_AI-FF6B00?style=for-the-badge&logo=mistral&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 > 🎓 **Currently enrolled in AI-Driven Software Engineering Bootcamp** — adding full-stack + AI development to my toolkit
