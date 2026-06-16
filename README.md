@@ -146,17 +146,20 @@ Alongside frontend development, I am actively building backend skills to develop
   <a href="https://linkedin.com/in/sumayea-rahman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sumayearahman7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://fb.com/sumayea.rahman">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/RahmanSuma22098">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sumayearahman7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+ 
+  
+   <a href="https://leetcode.com/u/ShorboNam/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
