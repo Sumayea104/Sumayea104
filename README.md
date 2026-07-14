@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Uploads/banner02" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
+  <img src="Uploads/banner02.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
   <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
   <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
