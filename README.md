@@ -1,7 +1,8 @@
 <div align="center">
+  
+  <img src="Uploads/banner02" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
+  <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
-  <!-- <img src="https://capsule-render.vercel.app/render?type=thicket&color=00f2ff&height=150&section=header&text=SUMAYEA%20RAHMAN&fontSize=60&animation=fadeIn" /> -->
-
   <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
 
   <p>
