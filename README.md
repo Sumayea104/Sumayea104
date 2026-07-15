@@ -3,14 +3,16 @@
   <img src="Uploads/banner02.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
   <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
-  <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
+  <h3>📊 Full-Stack Developer | AI Enthusiast | Finance Background</h3>
 
   <p>
-  I build business-driven web applications by combining financial thinking with software development.
-My focus is on creating tools that improve decision-making, efficiency, and user experience in real-world scenarios.
+I build intelligent, business-driven web applications by combining software engineering, AI, and financial thinking. I enjoy transforming ideas into scalable digital solutions that improve decision-making and user experience.
+  </p>
+  <p>
+Beyond development, I'm passionate about researching innovative products, analyzing features, identifying market opportunities, growing professional networks, supporting fellow developers, and helping turn promising ideas into impactful solutions.
   </p>
 
- <code>🚀 Currently expanding into backend development & full-stack systems</code>
+ <code>🚀 Currently building AI-powered full-stack applications while exploring scalable backend systems and modern software architecture.</code>
 </div>
 
 ---
