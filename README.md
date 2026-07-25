@@ -3,13 +3,14 @@
   <img src="Uploads/Full-Stack Software Engineer.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
   <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
-  <h3>Full-Stack Software Engineer</h3>
+  <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
 
   <p>
-  Building AI-Powered Web Applications  | React • Next.js • Node.js • TypeScript
+  I build business-driven web applications by combining financial thinking with software development.
+My focus is on creating tools that improve decision-making, efficiency, and user experience in real-world scenarios.
   </p>
 
- <code>🚀 Currently expanding into backend development & full-stack systems</code>
+ <code>🚀 Currently building AI-powered full-stack applications while exploring scalable backend systems and modern software architecture.</code>
 </div>
 
 ---
