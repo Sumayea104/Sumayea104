@@ -1,13 +1,12 @@
 <div align="center">
   
-  <img src="Uploads/banner02.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
+  <img src="Uploads/Full-Stack Software Engineer.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
   <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
-  <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
+  <h3>Full-Stack Software Engineer</h3>
 
   <p>
-  I build business-driven web applications by combining financial thinking with software development.
-My focus is on creating tools that improve decision-making, efficiency, and user experience in real-world scenarios.
+  Building AI-Powered Web Applications  | React • Next.js • Node.js • TypeScript
   </p>
 
  <code>🚀 Currently expanding into backend development & full-stack systems</code>
@@ -16,27 +15,23 @@ My focus is on creating tools that improve decision-making, efficiency, and user
 ---
 
 ### 🛡️ Professional Narrative
-I am an MBA (Finance) graduate transitioning into software development with a strong interest in solving business problems through technology.
 
-I approach development with a mindset rooted in:
+I build intelligent web applications that combine modern software engineering with practical AI.
 
-- 📊 Analytical thinking
-- 📈 Business impact
-- ⚙️ System efficiency
+My interests span full-stack development, AI integration, and scalable system design. I enjoy transforming complex business problems into reliable, user-focused software.
 
-Alongside frontend development, I am actively building backend skills to develop complete, data-driven applications that connect logic, data, and usability.
+Currently exploring AI-native applications, developer tools, and FinTech products.
+
 
 ---
 ### 💻 Technical Ecosystem
 **Frontend Development**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
 **Backend Development**
@@ -49,7 +44,7 @@ Alongside frontend development, I am actively building backend skills to develop
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-**DevOps, AI & Cloud (Bootcamp Focus)**
+**DevOps, AI & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -67,13 +62,13 @@ Alongside frontend development, I am actively building backend skills to develop
 </p>
 
 
-**UI & Component Libraries**
+<!-- **UI & Component Libraries**
 <p align="left">
   <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+</p> -->
 
 **AI Stack (In Progress)**
 <p align="left">
@@ -84,28 +79,12 @@ Alongside frontend development, I am actively building backend skills to develop
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**AI APIs**
+<!-- **AI APIs**
 <p align="left">
   <img src="https://img.shields.io/badge/Mistral_AI-FF6B00?style=for-the-badge&logo=mistral&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-</p>
+</p> -->
 
-> 🎓 **Currently enrolled in AI-Driven Software Engineering Bootcamp** — adding full-stack + AI development to my toolkit
----
-
-## 🎯 Career Focus
-
-- Business-oriented software development  
-- Data-driven decision support tools  
-- Applying financial thinking to real-world applications  
-
----
-
-## 🔭 Current Goals (2026)
-
-- Complete backend development fundamentals  
-- Build full-stack applications  
-- Strengthen problem-solving and logical thinking  
 ---
 
 ### ⚡ System Pulse & Analytics
@@ -127,14 +106,14 @@ Alongside frontend development, I am actively building backend skills to develop
   <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
 </p> 
 
-<!-- <p align="center">
-<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayea104=algolia" alt="GitHub Streak" />
-</p> -->
-<!-- -->
-<!-- <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayea104&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
-</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumayea104&theme=github-dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+</p>
 ---
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
