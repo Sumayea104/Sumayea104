@@ -3,14 +3,10 @@
   <img src="Uploads/Full-Stack Software Engineer.png" alt="Sumayea Rahman - Full-Stack Developer Banner" width="100%">
   <b>
   <h1>👋 Hello, I'm Sumayea Rahman</h1>
-  <h3>📊 MBA (Finance) | Business Development Enthusiast | Data-Driven Problem Solver</h3>
-
+  <h3>Full-Stack Software Engineer</h3>
   <p>
-  I build business-driven web applications by combining financial thinking with software development.
-My focus is on creating tools that improve decision-making, efficiency, and user experience in real-world scenarios.
+  Building AI-Powered Web Applications
   </p>
-
- <code>🚀 Currently building AI-powered full-stack applications while exploring scalable backend systems and modern software architecture.</code>
 </div>
 
 ---
@@ -62,15 +58,6 @@ Currently exploring AI-native applications, developer tools, and FinTech product
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
-<!-- **UI & Component Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p> -->
-
 **AI Stack (In Progress)**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -80,23 +67,12 @@ Currently exploring AI-native applications, developer tools, and FinTech product
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<!-- **AI APIs**
-<p align="left">
-  <img src="https://img.shields.io/badge/Mistral_AI-FF6B00?style=for-the-badge&logo=mistral&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-</p> -->
-
 ---
 
 ### ⚡ System Pulse & Analytics
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumayea104&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&area=true&hide_border=true" />
 </p>
-
- <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="48%" alt="Sumayea's Top Languages" /> -->
-</div> 
 
 ---
 
@@ -107,14 +83,6 @@ Currently exploring AI-native applications, developer tools, and FinTech product
   <img width="96.5%" src="https://streak-stats.demolab.com?user=sumayea104&theme=algolia&hide_border=true" />
 </p> 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumayea104&theme=github-dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumayea104&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayea104&layout=compact&theme=github_dark&hide_border=true" width="49%" />
-</p>
 ---
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumayea104&theme=algolia" style="width: 48%; margin-bottom: 5px;">
